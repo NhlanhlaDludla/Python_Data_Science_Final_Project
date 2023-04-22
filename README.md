@@ -1,2 +1,2 @@
-# Python_Data_Science_Final_Project
+# Python Data Science Final Project
 Extracting Tesla and GameStop data using python libraries and Webscrapping
